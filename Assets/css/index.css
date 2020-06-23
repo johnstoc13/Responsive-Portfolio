@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
 img {
     max-width: 150px;
     max-height: 150px;
@@ -11,18 +17,22 @@ body {
 hr {
     height: 2px;
     width: 96%;
-    background-color:lightgrey;
+    background-color:#0275d8;
 }
 
-.aboutme {
+.about {
     background-color: white;
-    border: solid;
-    border: lightseagreen;
     margin-top: 34px;
 }
 
+.aboutme,
 .aboutmerows {
     margin-left: 15px;
+}
+
+.aboutmerows {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 h3 {
@@ -32,6 +42,7 @@ h3 {
 
 .aboutmerows img {
     margin-top: 15px;
+    float: left;
 }
 
 p {
