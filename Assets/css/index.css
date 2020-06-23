@@ -27,6 +27,7 @@ hr {
     background-color: white;
     max-width: 600px;
     margin-top: 34px;
+    margin-bottom: 34px;
 }
 
 .aboutme,
@@ -54,6 +55,10 @@ p {
 .portfolionav {
     border-left: 1px solid;
     border-right: 1px solid;
+}
+
+.contact {
+    padding-bottom: 25px;
 }
 
 .footer {
