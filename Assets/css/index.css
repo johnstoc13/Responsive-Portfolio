@@ -9,11 +9,6 @@ body {
     background-size: cover;
 }
 
-hr {
-    height: 2px;
-    background-color:#0275d8;
-}
-
 .aboutimg {
     max-width: 150px;
 }
