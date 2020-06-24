@@ -13,25 +13,21 @@
 <body>
 
     <!-- Navbar from Bootstrap -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
         <a class="navbar-brand" href="#">Chase Johnston</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+        <div class="navbar-collapse justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link" href="index.html">About</a>
-                <a class="nav-item nav-link active" href="portfolio.html">Portfolio <span
+                <a class="nav-item nav-link pt-0 pb-0 m-1" href="index.html">About</a>
+                <a class="nav-item nav-link active py-0 px-3 m-1 border-left border-right" href="portfolio.html">Portfolio <span
                         class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="contact.html">Contact</a>
+                <a class="nav-item nav-link py-0 m-1" href="contact.html">Contact</a>
             </div>
         </div>
     </nav>
 
     <!-- Main Content -->
-    <div class="container about contact">
-        <div class="row aboutme">
+    <div class="container bg-white my-4 px-4 pb-4">
+        <div class="row ml-0 pt-3">
             <h3>Portfolio</h3>
         </div>
 
@@ -39,8 +35,8 @@
 
         <!-- START HERE!!!!! -->
         <div class="row">
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 pt-3">
+                <div class="card text-center">
                     <img src="./assets/images/horiseon.png" class="card-img-top" alt="Horiseon">
                     <div class="card-body">
                       <h5 class="card-title">Horiseon</h5>
@@ -49,8 +45,8 @@
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 pt-3">
+                <div class="card text-center">
                     <img src="./assets/images/cmt.png" class="card-img-top" alt="Changemaker Teens">
                     <div class="card-body">
                       <h5 class="card-title">Changemaker Teens</h5>
@@ -59,8 +55,8 @@
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 pt-3">
+                <div class="card text-center">
                     <img src="./assets/images/cupcake.png" class="card-img-top" alt="Cupcake Camper">
                     <div class="card-body">
                       <h5 class="card-title">The Cupcake Camper</h5>
@@ -69,18 +65,18 @@
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 pt-3">
+                <div class="card text-center">
                     <img src="./assets/images/twofish.png" class="card-img-top" alt="Two Fish Ministries">
                     <div class="card-body">
                       <h5 class="card-title">Two Fish Ministries</h5>
                       <p class="card-text">Creating this website for my brother-in-law. He is starting his own non-profit business in Denver. Site still under construction.</p>
-                      <a href="https://www.twofishministries.org" class="btn btn-primary">Visit Website</a>
+                      <a href="http://www.gss-temp.com" class="btn btn-primary">Visit Website</a>
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 pt-3">
+                <div class="card text-center">
                     <img src="./assets/images/gss.png" class="card-img-top" alt="Granite State Studio">
                     <div class="card-body">
                       <h5 class="card-title">Granite State Studio</h5>
@@ -89,8 +85,8 @@
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 pt-3">
+                <div class="card text-center">
                     <img src="./assets/images/cheesy.png" class="card-img-top" alt="Scratch Game">
                     <div class="card-body">
                       <h5 class="card-title">Cheesy Puffs Game</h5>
@@ -99,8 +95,8 @@
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 portfoliocards">
-                <div class="card text-center" style="width: 18rem;">
+            <div class="col-md-6 col-lg-4 py-3">
+                <div class="card text-center">
                     <img src="./assets/images/shark.png" class="card-img-top" alt="Shark & Crab">
                     <div class="card-body">
                       <h5 class="card-title">Shark & Crab Game</h5>
@@ -119,7 +115,7 @@
     </nav>
 
     <!-- JS from Bootstrap to enable Hamburger menu functionality -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
@@ -127,7 +123,7 @@
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
-        crossorigin="anonymous"></script>
+        crossorigin="anonymous"></script> -->
 
 </body>
 
