@@ -33,3 +33,5 @@ Regarding the cards within the Portfolio page: I chose to keep my cards without 
 <img width="1157" alt="About - Screenshot" src="https://user-images.githubusercontent.com/66090689/85654659-8dd57d00-b67c-11ea-8094-5fa613548103.png">
 
 <img width="1159" alt="Portfolio - Screenshot" src="https://user-images.githubusercontent.com/66090689/85655888-1c96c980-b67e-11ea-9775-4654ed618159.png">
+
+<img width="1158" alt="Contact - Screenshot" src="https://user-images.githubusercontent.com/66090689/85656055-4f40c200-b67e-11ea-8154-6435da55ab2f.png">
