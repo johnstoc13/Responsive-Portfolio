@@ -26,6 +26,8 @@ When starting, I had initially created several classes in my CSS file. After run
 
 Regarding the cards within the Portfolio page: I chose to keep my cards without a banner over the image, as I wanted the viewer to be able to see the entire image. I also felt it was important to have a brief description of each portfolio item for the viewer to digest.
 
+UPDATE: After hearing we will be able to "revamp" our Portfolio's at a later date, I decided to make my portfolio cards for this homework assignment mirror the examples given. Although I don't love the layout, my new product has a much similar representation of the assignment. Looking forward to updating this soon!
+
 ## Images
 
 <img width="1157" alt="About - Screenshot" src="https://user-images.githubusercontent.com/66090689/85654659-8dd57d00-b67c-11ea-8094-5fa613548103.png">
