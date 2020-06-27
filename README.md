@@ -32,6 +32,6 @@ UPDATE: After hearing we will be able to "revamp" our Portfolio's at a later dat
 
 <img width="1157" alt="About - Screenshot" src="https://user-images.githubusercontent.com/66090689/85654659-8dd57d00-b67c-11ea-8094-5fa613548103.png">
 
-<img width="1159" alt="Portfolio - Screenshot" src="https://user-images.githubusercontent.com/66090689/85655888-1c96c980-b67e-11ea-9775-4654ed618159.png">
+<img width="1155" alt="Portfolio - Screenshot" src="https://user-images.githubusercontent.com/66090689/85930994-bb921000-b88e-11ea-81e6-33424df1ebbf.png">
 
 <img width="1158" alt="Contact - Screenshot" src="https://user-images.githubusercontent.com/66090689/85656055-4f40c200-b67e-11ea-8154-6435da55ab2f.png">
