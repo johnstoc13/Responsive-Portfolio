@@ -13,6 +13,11 @@ body {
     max-width: 150px;
 }
 
+.portfolio-padding {
+    position: absolute;
+    bottom: 10%;
+}
+
 .footer-font {
     font-size: 12px;
 }
